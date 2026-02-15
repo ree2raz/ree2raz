@@ -1,7 +1,7 @@
 ## Hey there, I'm [Rituraj](https://github.com/ree2raz) 🙋‍♂️
 
 ### Full-Stack Engineer | Real-Time Speech AI
----
+
 I love to build things that **have to work** in real-time. Lately, that’s meant diving deep into the intersection of audio streams and applied LLMs. I spend most of my time figuring out how to turn thousands of hours of messy voice data into something a business can actually use whether that’s an automated compliance agent or a live analytics dashboard.
 
 I’m comfortable owning the full lifecycle of a feature. I’d rather ship a functional prototype to get real customer feedback than spend weeks over-engineering a spec that might change. Fortunately, while doing that I got to make our app PCI compliant, implement SSO and DRM for enterprise clients and various other usual stuff.
@@ -15,7 +15,7 @@ I’m comfortable owning the full lifecycle of a feature. I’d rather ship a fu
 ---
 
 #### Where it started
-I started in the world of E-commerce and Direct Selling. Long before the current AI wave, I was **designing web pages** and building the infrastructure for **commission-heavy platforms**. I’ve spent plenty of time in the trenches with **third-party payment integrations and complex business logic—experience** that taught me how to **build for reliability and scale**.
+I started in the world of E-commerce and Direct Selling. Long before the current AI wave, I was **designing web pages** and building the infrastructure for **commission-heavy platforms**. I’ve spent plenty of time in the trenches with **third-party payment integrations and complex business logic-experience** that taught me how to **build for reliability and scale**.
 
 |Category| Tools|
 |:----|:----|
