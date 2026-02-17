@@ -1,10 +1,10 @@
 ## Hey there, I'm [Rituraj](https://github.com/ree2raz) 🙋‍♂️
 
-> Currently working on freelance projects and open-source.
-
 ### Full-Stack Engineer
 
-I love to build things that **have to work** in real-time. 
+I love to build things that **have to work** in real-time.
+
+> Currently working on freelance projects and open-source.
 
 #### Ping Me
 
