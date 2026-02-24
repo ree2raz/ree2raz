@@ -4,8 +4,6 @@
 
 I love to build things that **have to work** in real-time.
 
-> Currently working on freelance projects and open-source.
-
 #### Ping Me
 
 - Email : [📧](mailto:ree2raz@proton.me)
