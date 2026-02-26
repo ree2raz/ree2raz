@@ -2,4 +2,4 @@
 
 ### Full-Stack Software Engineer
 
-I love to build things that **have to work** in real-time.
+> I enjoy doing hard things and building solutions that **have to work** in real-time.
