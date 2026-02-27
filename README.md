@@ -1,5 +1,5 @@
-## Hey there, I'm [Rituraj](https://github.com/ree2raz) 🙋‍♂️
+## rituraj 🙋‍♂️
 
-### Full-Stack Software Engineer
+### Software Guy
 
 > **Tackling hard problems**, **experimenting** and **building stuff** that **have to work** in real-time.
