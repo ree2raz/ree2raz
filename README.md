@@ -1,9 +1,7 @@
 ## Wassup 🙋‍♂️
 
-### Full-Stack Engineer building Multi-Agentic Systems
+### Full-Stack Engineer 🏗️ Multi-Agentic Systems
 
-> Speech Analytics, Compliance, Process Automation
+#### Contact Center Analytics (Speech & Text), Compliance Agents, Real-time Assist Agent
 
-#### Built Enterprise-Grade LLM Features (Real-Time, Multi-Stage Workflows, Harness Engineering) | Python · TypeScript |
-
-> **Tackling hard problems**, **experimenting** and **building stuff** that **have to work** in real-time.
+> Built Enterprise-Grade LLM Features (Real-Time, Multi-Stage Workflows, Harness Engineering) | Python · TypeScript |
