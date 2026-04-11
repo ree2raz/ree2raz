@@ -1,3 +1,3 @@
 ## Wassup 🙋‍♂️
 
-> Full-Stack Engineer 🏗️ Reinforcement Learning with Verifiable Rewards (RLVR) | Compliance & Regulatory Agentic Systems and Environments
+> Agent Orchestrator🏗️ | RLVR, Specialized RL Environments, Compliance AI Agents
