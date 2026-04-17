@@ -1,3 +1,3 @@
 ## Wassup 🙋‍♂️
 
-> Agent Orchestrator🏗️ | RLVR, Specialized RL Environments, Compliance AI Agents
+> Building RL environments for compliance agents | Shipped 3 LLM features to enterprise prod 
