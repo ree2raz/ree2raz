@@ -1,3 +1,3 @@
-## Wassup 🙋‍♂️
+## Hello 👋
 
-> Building RL environments for compliance agents | Shipped 3 LLM features to enterprise prod 
+> Production AI for regulated workflows | Building RL environments for compliance agents | Ex-(Yactraq Online Inc.)
