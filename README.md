@@ -1,4 +1,4 @@
-## Sup? 👋
+## Hello 👋
 
 > Full-Stack AI Product Engineer | Solving Compliance with AI | Deep RL
 > 
