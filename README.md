@@ -1,3 +1,3 @@
 ## Hello 👋
 
-> Production AI for regulated workflows | Building RL environments for compliance agents | Ex-(Yactraq Online Inc.)
+> Solving Compliance with AI | RL Environments | Shipped LLM-Scorecard, Compliance Agent, Conversational Bot at @Yactraq Online Inc. | Shipped CMS, E-Commerce Web App, Compensation Engine at @Clover IT Service Pvt. Ltd.
