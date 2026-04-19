@@ -1,6 +1,6 @@
-## Hello 👋
+## Sup? 👋
 
-> Solving Compliance with AI | RL Environments
+> Full-Stack AI Product Engineer | Solving Compliance with AI | Deep RL
 > 
 > Shipped LLM-Scorecard, Compliance Agent, Conversational Bot
 > 
