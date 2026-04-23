@@ -1,7 +1,17 @@
-<img width="1584" height="396" alt="profile_banner" src="https://github.com/user-attachments/assets/eb7d6a4a-61e9-41d3-8c2f-de2ce7f2de08" />
+I build compliance-grade LLM systems and the evaluation infrastructure that validates them.
 
-### Full-Stack AI Product Engineer | Solving Compliance with AI | Deep RL
- 
-> Shipped LLM-Scorecard, Compliance Agent, Conversational Bot
-> 
-> Shipped CMS, E-Commerce Web App, Compensation Engine
+Currently working on [RegTriage](https://github.com/ree2raz/RegTriage-OpenEnv), an OpenEnv environment for training RL agents on regulatory compliance auditing, and on the evaluation patterns that make production LLM scorecards trustworthy.
+
+Selected work
+
+- [RegTriage-OpenEnv](https://github.com/ree2raz/RegTriage-OpenEnv) — RL environment for compliance auditing with structured reward functions
+- [rubric-grader-eval](https://github.com/ree2raz/rubric-grader-eval) — deterministic evaluation harness for LLM-based scorecards
+
+Writing
+
+[rituraj.info](https://rituraj.info) — notes on production ML, compliance systems, and agent architectures
+
+Contact
+
+- [cal.com/ree2raz/quick-chat](https://cal.com/ree2raz/quick-chat)
+- ree2raz@proton.me
