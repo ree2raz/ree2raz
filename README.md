@@ -1,3 +1,5 @@
+<img width="1584" alt="profile_banner" src="./profile_banner.png" />
+
 I build compliance-grade LLM systems and the evaluation infrastructure that validates them.
 
 Currently working on [RegTriage](https://github.com/ree2raz/RegTriage-OpenEnv), an OpenEnv environment for training RL agents on regulatory compliance auditing, and on the evaluation patterns that make production LLM scorecards trustworthy.
