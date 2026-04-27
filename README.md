@@ -14,6 +14,7 @@ verifiability stack. New repo and post weekly.
 - **[auditguard-mcp](https://github.com/ree2raz/auditguard-mcp)** — A
   compliance-aware MCP server. Seven-step pipeline: RBAC, PII detection,
   policy enforcement, audit logging. 15-case eval, 100% pass.
+  [Live demo → HuggingFace Space](https://huggingface.co/spaces/ree2raz/auditguard-mcp)
 - **[RegTriage-OpenEnv](https://github.com/ree2raz/RegTriage-OpenEnv)** —
   An OpenEnv RL environment where the reward signal is auditor approval.
   12 tasks, severity-weighted F1, auto-fail caps.
