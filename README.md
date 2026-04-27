@@ -11,7 +11,7 @@ verifiability stack. New repo and post weekly.
 
 ### Featured
 
-- **[audited-tool-mcp](https://github.com/ree2raz/audited-tool-mcp)** — A
+- **[auditguard-mcp](https://github.com/ree2raz/auditguard-mcp)** — A
   compliance-aware MCP server. Seven-step pipeline: RBAC, PII detection,
   policy enforcement, audit logging. 15-case eval, 100% pass.
 - **[RegTriage-OpenEnv](https://github.com/ree2raz/RegTriage-OpenEnv)** —
