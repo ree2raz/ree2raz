@@ -24,7 +24,7 @@ and BPO verticals.
 
 ### Production background
 
-Previously shipped three LLM features to enterprise production at a 
+Previously shipped LLM features to enterprise production at a 
 speech analytics company serving regulated contact centers: automated 
 quality scoring, real-time compliance assistant, conversational analytics 
 engine. Self-hosted on customer infrastructure. Zero data egress.
