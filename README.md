@@ -12,7 +12,7 @@ and BPO verticals.
 - **[auditguard-mcp](https://github.com/ree2raz/auditguard-mcp)** — A
   compliance-aware MCP server. Seven-step pipeline: RBAC, PII detection,
   policy enforcement, audit logging. 15-case eval, 100% pass.
-  [Live demo → HuggingFace Space](https://huggingface.co/spaces/ree2raz/auditguard-mcp)
+  [Live demo](auditguard.rituraj.info)
 
 - **[RegTriage-OpenEnv](https://github.com/ree2raz/RegTriage-OpenEnv)** —
   An OpenEnv RL environment where the reward signal is auditor approval.
