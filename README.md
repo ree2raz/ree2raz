@@ -12,15 +12,24 @@ and BPO verticals.
 - **[auditguard-mcp](https://github.com/ree2raz/auditguard-mcp)** — A
   compliance-aware MCP server. Seven-step pipeline: RBAC, PII detection,
   policy enforcement, audit logging. 15-case eval, 100% pass.
-  [Live demo](auditguard.rituraj.info)
+  [Live demo](https://auditguard.rituraj.info)
+
+- **[Scrutiny](https://github.com/ree2raz/scrutiny)** — FDCPA/Reg F call
+  transcript audit in 60 seconds. 12-rule rubric with verbatim evidence
+  quotes and statutory citations. Dual-path evaluator.
+  [Live demo](https://scrutiny.rituraj.info) ·
+  [Blog post](https://rituraj.info/posts/scrutiny-fdcpa-call-audit/)
 
 - **[RegTriage-OpenEnv](https://github.com/ree2raz/RegTriage-OpenEnv)** —
   An OpenEnv RL environment where the reward signal is auditor approval.
   12 tasks, severity-weighted F1, auto-fail caps.
+  [Live demo](https://huggingface.co/spaces/ree2raz/RegTriage-OpenEnv) ·
+  [Blog post](https://rituraj.info/posts/regtriage-rl-environment-compliance-auditing/)
 
 - **[rubric-grader-eval](https://github.com/ree2raz/rubric-grader-eval)** — 
   Compile unstructured rubrics into evaluable schemas. Handles clean CSV, 
   boolean composites, document masquerades. Brute-force baseline + eval harness.
+  [Blog post](https://rituraj.info/posts/compliance-qa-llm-scorecard-pattern/)
 
 ### Production background
 
