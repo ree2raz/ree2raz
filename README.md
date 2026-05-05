@@ -37,7 +37,7 @@ and BPO verticals.
   Reproducible vLLM vs SGLang vs llama.cpp benchmark on NVIDIA L4 (via Modal).
   Concurrent-request sweeps, TTFT/TPOT, tail latency (p95/p99), success rate.
   SGLang leads throughput (+10%), vLLM leads TTFT at low concurrency.
-  [Showcase](https://ree2raz.github.io/inference-bench/)
+  [Showcase](https://llm-bench.rituraj.info)
 
 ### Production background
 
