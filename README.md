@@ -26,10 +26,18 @@ and BPO verticals.
   [Live demo](https://huggingface.co/spaces/ree2raz/RegTriage-OpenEnv) ·
   [Blog post](https://rituraj.info/posts/regtriage-rl-environment-compliance-auditing/)
 
-- **[rubric-grader-eval](https://github.com/ree2raz/rubric-grader-eval)** — 
-  Compile unstructured rubrics into evaluable schemas. Handles clean CSV, 
-  boolean composites, document masquerades. Brute-force baseline + eval harness.
-  [Blog post](https://rituraj.info/posts/compliance-qa-llm-scorecard-pattern/)
+- **[LLM Deploy Cost Calculator](https://github.com/ree2raz/llm-cost-calculator)** —
+  Production-grade GPU sizing, cost comparison, and break-even analysis for LLM
+  deployment. Architecture-aware VRAM (GQA, MLA, MoE), throughput model, replica
+  multiplier, pricing tiers. 49 model variants, 38 API plans.
+  [Live tool](https://llm-cost.rituraj.info) ·
+  [Blog post](https://rituraj.info/posts/on-prem-llm-deployment-cto/)
+
+- **[Inference Bench](https://github.com/ree2raz/inference-bench)** —
+  Reproducible vLLM vs SGLang vs llama.cpp benchmark on NVIDIA L4 (via Modal).
+  Concurrent-request sweeps, TTFT/TPOT, tail latency (p95/p99), success rate.
+  SGLang leads throughput (+10%), vLLM leads TTFT at low concurrency.
+  [Showcase](https://ree2raz.github.io/inference-bench/)
 
 ### Production background
 
