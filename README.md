@@ -9,7 +9,7 @@ and BPO verticals.
 
 ### Featured
 
-- **[dental-desk](https://github.com/ree2raz/dental-desk)** — Voice agent prototype for clinic appointment scheduling: real-time STT/TTS, turn-taking, tool calls, multilingual support. Built as a client engagement pitch.
+- **[dental-desk](https://github.com/ree2raz/dental-desk)** — Voice agent prototype for clinic appointment scheduling: FSM (Finite State Machine), real-time STT/TTS, turn-taking, tool calls, multilingual support. Built as a client engagement pitch.
   [Live demo](https://dental-desk.rituraj.info)
 
 - **[auditguard-mcp](https://github.com/ree2raz/auditguard-mcp)** — A compliance-aware MCP server. Seven-step pipeline: RBAC, PII detection, policy enforcement, audit logging. 15-case eval, 100% pass.
