@@ -1,4 +1,4 @@
-### Automated compliance scoring and LLM evaluation for regulated contact centers.
+### AI systems for regulated contact centers: voice agents, real-time compliance, and LLM evaluation pipelines.
 Verifiable output. Deterministic grading. Traceable failure modes.
 
 **Currently:** Taking pilot engagements: compliance audits, eval-harness 
@@ -9,22 +9,12 @@ and BPO verticals.
 
 ### Featured
 
-- **[auditguard-mcp](https://github.com/ree2raz/auditguard-mcp)** — A
-  compliance-aware MCP server. Seven-step pipeline: RBAC, PII detection,
-  policy enforcement, audit logging. 15-case eval, 100% pass.
+- **[dental-desk](https://github.com/ree2raz/dental-desk)** — Voice agent prototype for clinic appointment scheduling: real-time STT/TTS, turn-taking, tool calls, multilingual support. Built as a client engagement pitch.
+  [Live demo](https://dental-desk.rituraj.info)
+
+- **[auditguard-mcp](https://github.com/ree2raz/auditguard-mcp)** — A compliance-aware MCP server. Seven-step pipeline: RBAC, PII detection, policy enforcement, audit logging. 15-case eval, 100% pass.
   [Live demo](https://auditguard.rituraj.info)
-
-- **[Scrutiny](https://github.com/ree2raz/scrutiny)** — FDCPA/Reg F call
-  transcript audit in 60 seconds. 12-rule rubric with verbatim evidence
-  quotes and statutory citations. Dual-path evaluator.
-  [Live demo](https://scrutiny.rituraj.info) ·
-  [Blog post](https://rituraj.info/posts/scrutiny-fdcpa-call-audit/)
-
-- **[RegTriage-OpenEnv](https://github.com/ree2raz/RegTriage-OpenEnv)** —
-  An OpenEnv RL environment where the reward signal is auditor approval.
-  12 tasks, severity-weighted F1, auto-fail caps.
-  [Live demo](https://huggingface.co/spaces/ree2raz/RegTriage-OpenEnv) ·
-  [Blog post](https://rituraj.info/posts/regtriage-rl-environment-compliance-auditing/)
+  [Blog post](https://www.rituraj.info/posts/auditguard-mcp-compliance-pipeline/)
 
 - **[LLM Deploy Cost Calculator](https://github.com/ree2raz/llm-cost-calculator)** —
   Production-grade GPU sizing, cost comparison, and break-even analysis for LLM
@@ -37,7 +27,18 @@ and BPO verticals.
   Reproducible vLLM vs SGLang vs llama.cpp benchmark on NVIDIA L4 (via Modal).
   Concurrent-request sweeps, TTFT/TPOT, tail latency (p95/p99), success rate.
   SGLang leads throughput (+10%), vLLM leads TTFT at low concurrency.
-  [Showcase](https://llm-bench.rituraj.info)
+  [Results](https://llm-bench.rituraj.info)
+
+- **[Scrutiny](https://github.com/ree2raz/scrutiny)** — FDCPA/Reg F call transcript audit in 60 seconds. 12-rule rubric with verbatim evidence quotes and statutory citations. Dual-path evaluator.
+  [Live demo](https://scrutiny.rituraj.info) ·
+  [Blog post](https://rituraj.info/posts/scrutiny-fdcpa-call-audit/)
+
+- **[RegTriage-OpenEnv](https://github.com/ree2raz/RegTriage-OpenEnv)** —
+  An OpenEnv RL environment where the reward signal is auditor approval.
+  12 tasks, severity-weighted F1, auto-fail caps.
+  [Live demo](https://huggingface.co/spaces/ree2raz/RegTriage-OpenEnv) ·
+  [Blog post](https://rituraj.info/posts/regtriage-rl-environment-compliance-auditing/)
+
 
 ### Production background
 
