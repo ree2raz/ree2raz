@@ -19,7 +19,7 @@ and BPO verticals.
 - **[LLM Deploy Cost Calculator](https://github.com/ree2raz/llm-cost-calculator)** —
   Production-grade GPU sizing, cost comparison, and break-even analysis for LLM deployment. Architecture-aware VRAM (GQA, MLA, MoE), throughput
   model, replica multiplier, pricing tiers. 49 model variants, 38 API plans. Cost estimates include uncertainty bands (self-hosted −15%/+30%, API ±15%). Validated against inference-bench measured numbers.
-  [Live tool](https://llm-cost.rituraj.info) ·
+  [Live tool](https://llm-cost.rituraj.info)
   [Blog post](https://rituraj.info/posts/on-prem-llm-deployment-cto/)
 
 - **[Inference Bench](https://github.com/ree2raz/inference-bench)** —
