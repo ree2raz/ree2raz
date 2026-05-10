@@ -17,17 +17,14 @@ and BPO verticals.
   [Blog post](https://www.rituraj.info/posts/auditguard-mcp-compliance-pipeline/)
 
 - **[LLM Deploy Cost Calculator](https://github.com/ree2raz/llm-cost-calculator)** —
-  Production-grade GPU sizing, cost comparison, and break-even analysis for LLM
-  deployment. Architecture-aware VRAM (GQA, MLA, MoE), throughput model, replica
-  multiplier, pricing tiers. 49 model variants, 38 API plans.
+  Production-grade GPU sizing, cost comparison, and break-even analysis for LLM deployment. Architecture-aware VRAM (GQA, MLA, MoE), throughput
+  model, replica multiplier, pricing tiers. 49 model variants, 38 API plans. Cost estimates include uncertainty bands (self-hosted −15%/+30%, API ±15%). Validated against inference-bench measured numbers.
   [Live tool](https://llm-cost.rituraj.info) ·
   [Blog post](https://rituraj.info/posts/on-prem-llm-deployment-cto/)
 
 - **[Inference Bench](https://github.com/ree2raz/inference-bench)** —
-  Reproducible vLLM vs SGLang vs llama.cpp benchmark on NVIDIA L4 (via Modal).
-  Concurrent-request sweeps, TTFT/TPOT, tail latency (p95/p99), success rate.
-  SGLang leads throughput (+10%), vLLM leads TTFT at low concurrency.
-  [Results](https://llm-bench.rituraj.info)
+  Reproducible vLLM vs SGLang vs llama.cpp benchmark on NVIDIA L4 + A100 (via Modal). 125 runs across FP16, AWQ, reasoning (Qwen3-8B), and MoE (Qwen3-30B-A3B). May 2026 sweep with vLLM v0.20.1 + SGLang :latest confirmed L4 numbers stable; on A100, vLLM leads at all concurrencies — 4,762 tok/s Marlin at c=64 vs SGLang's 2,231 (+113%).
+  [Dashboard](https://llm-bench.rituraj.info)
 
 - **[Scrutiny](https://github.com/ree2raz/scrutiny)** — FDCPA/Reg F call transcript audit in 60 seconds. 12-rule rubric with verbatim evidence quotes and statutory citations. Dual-path evaluator.
   [Live demo](https://scrutiny.rituraj.info) ·
