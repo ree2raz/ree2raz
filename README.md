@@ -36,6 +36,8 @@ and BPO verticals.
   [Live demo](https://huggingface.co/spaces/ree2raz/RegTriage-OpenEnv) ·
   [Blog post](https://rituraj.info/posts/regtriage-rl-environment-compliance-auditing/)
 
+- **[yojana-sathi](https://github.com/ree2raz/yojana-sathi)** - A voice-based personal knowledge assistant that helps citizens understand and use Indian government policies in their regional language. Speak in any major Indian language, get answers in the same language.
+
 
 ### Production background
 
